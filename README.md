@@ -3,7 +3,7 @@
 - Seunghun Paik, Chanwoo Hwang, Sunpill Kim and Jae Hong Seo
 - An extended version of `Security Analysis on LSH-based BTPs` Accepted at BMVC 2023 (Oral).
 
-This repository provides the source code for our extended paper entitled "Locality-Sensitive Hashing-based Biometric Template Protection Schemes are Fully Reversible!", which is currently under review in IEEE TPAMI.
+This repository provides the source code for our extended paper entitled "Locality-Sensitive Hashing-based Biometric Template Protection Schemes are Fully Reversible!", which is currently under review.
 
 ### Introduction & Summary of Changes
 
